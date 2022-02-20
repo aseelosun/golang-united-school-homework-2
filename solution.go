@@ -14,7 +14,7 @@ import "math"
 
 type sidesNum int
 
-const Pi = 3.14
+const Pi = 3.141593
 const SidesTriangle = 3
 const SidesSquare = 4
 const SidesCircle = 0
